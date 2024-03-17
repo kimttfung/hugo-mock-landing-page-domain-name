@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>travel.tgt</title>
+    <link>http://localhost:1313/hugo-bootstrap-theme/pt/</link>
+    <description>Recent content on travel.tgt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-PT</language>
+    <copyright>Kim Fung</copyright>
+    <atom:link href="http://localhost:1313/hugo-bootstrap-theme/pt/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
