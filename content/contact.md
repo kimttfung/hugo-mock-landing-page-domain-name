@@ -8,4 +8,4 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/kimttfung/hugo-mock-landing-page/issues) on GitHub.
+[Open an issue](https://github.com/kimttfung/hugo-mock-landing-page-autodeployed/issues) on GitHub.
